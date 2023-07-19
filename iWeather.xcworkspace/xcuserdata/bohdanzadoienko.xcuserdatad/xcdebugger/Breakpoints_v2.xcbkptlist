@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8940D6DB-95E0-47F4-8705-99B9DD0A3AF0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "70A93F4B-6511-4992-B418-558804399FC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "8"
+            categories = "CoreLocation">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F1DB555-5DEC-462C-9281-CE8CE0D84485"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iWeather/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "fetchWeather(latitude:longtitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F1DB555-5DEC-462C-9281-CE8CE0D84485 - b7718a6d3c594114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iWeather.WeatherData, Swift.Error&gt;) -&gt; () in iWeather.ViewController.fetchWeather(latitude: Swift.Double, longtitude: Swift.Double) -&gt; ()"
+                  moduleName = "iWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bohdanzadoienko/IOS/iWeather/iWeather/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "8596">
+               </Location>
+               <Location
+                  uuid = "9F1DB555-5DEC-462C-9281-CE8CE0D84485 - b7718a6d3c594114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iWeather.WeatherData, Swift.Error&gt;) -&gt; () in iWeather.ViewController.fetchWeather(latitude: Swift.Double, longtitude: Swift.Double) -&gt; ()"
+                  moduleName = "iWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bohdanzadoienko/IOS/iWeather/iWeather/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "6276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DDF5D6B-C3BD-47FF-9095-777CA74A87F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iWeather/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "setCurrentUserLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DDF5D6B-C3BD-47FF-9095-777CA74A87F9 - 7f90d2e066ef28b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in iWeather.ViewController.setCurrentUserLocation() -&gt; ()"
+                  moduleName = "iWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bohdanzadoienko/IOS/iWeather/iWeather/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6DDF5D6B-C3BD-47FF-9095-777CA74A87F9 - 7f90d2e066ef2ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in iWeather.ViewController.setCurrentUserLocation() -&gt; ()"
+                  moduleName = "iWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bohdanzadoienko/IOS/iWeather/iWeather/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7D89925-2895-4146-AC29-AAC58994E530"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iWeather/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
